@@ -1,4 +1,4 @@
-# ⚡ Tai VT — Developer Portfolio
+# ⚡ Developer Portfolio
 
 A technical-style personal portfolio website featuring immersive 3D visuals powered by Three.js, built with Vue 3 and TailwindCSS.
 
