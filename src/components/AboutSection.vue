@@ -100,6 +100,11 @@ const infoCards = [
         title: 'location.base',
         description: 'Vietnam 🇻🇳 — Available for remote work globally'
     },
+    {
+        icon: '⚡',
+        title: 'interests.current',
+        description: 'WebGL shaders, generative art, edge computing, Rust, and open-source tooling'
+    },
 ]
 
 let lineTimeout = null
