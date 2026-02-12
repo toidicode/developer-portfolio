@@ -1,5 +1,7 @@
 # ⚡ Developer Portfolio
 
+🌐 **Live Demo:** [portfolio.toidicode.com](https://portfolio.toidicode.com)
+
 A technical-style personal portfolio website featuring immersive 3D visuals powered by Three.js, built with Vue 3 and TailwindCSS.
 
 ![Vue 3](https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js&logoColor=white)
